@@ -1,0 +1,39 @@
+* {
+
+	font-family: Verdana;
+
+}
+
+div {
+
+	width: 30%;
+	padding-bottom: 30%;
+
+}
+
+#square {
+
+	float: left;
+	position: relative;
+	width: 30%;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	overflow: hidden;
+
+}
+
+.content {
+
+	position: absolute;
+	height: 80%;
+	width: 90%;
+	padding: 10% 5%;
+
+}
+
+.image {
+
+	width: 685px;
+	height: 685px;
+
+}
